@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="gif_test">
+        <item>@drawable/child1</item>
+        <item>@drawable/child2</item>
+        <item>@drawable/child3</item>
+        <item>@drawable/child4</item>
+        <item>@drawable/child5</item>
+        <item>@drawable/child6</item>
+        <item>@drawable/child7</item>
+        <item>@drawable/child8</item>
+        <item>@drawable/child9</item>
+        <item>@drawable/child11</item>
+        <item>@drawable/child13</item>
+        <item>@drawable/child114</item>
+    </array>
+</resources>
